@@ -1,0 +1,7 @@
+F:\Documents\Programming\Основы ООП\Kraken\Snake\GameSnake\GameSnake\bin\Debug\GameSnake.exe.config
+F:\Documents\Programming\Основы ООП\Kraken\Snake\GameSnake\GameSnake\bin\Debug\GameSnake.exe
+F:\Documents\Programming\Основы ООП\Kraken\Snake\GameSnake\GameSnake\bin\Debug\GameSnake.pdb
+F:\Documents\Programming\Основы ООП\Kraken\Snake\GameSnake\GameSnake\obj\Debug\GameSnake.csprojAssemblyReference.cache
+F:\Documents\Programming\Основы ООП\Kraken\Snake\GameSnake\GameSnake\obj\Debug\GameSnake.csproj.CoreCompileInputs.cache
+F:\Documents\Programming\Основы ООП\Kraken\Snake\GameSnake\GameSnake\obj\Debug\GameSnake.exe
+F:\Documents\Programming\Основы ООП\Kraken\Snake\GameSnake\GameSnake\obj\Debug\GameSnake.pdb
